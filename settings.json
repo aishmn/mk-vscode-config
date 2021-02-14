@@ -1,0 +1,127 @@
+{
+  "breadcrumbs.enabled": true,
+
+  "diffEditor.renderSideBySide": true,
+
+  "editor.lineHeight": 26,
+
+  "editor.highlightActiveIndentGuide": true,
+
+  "editor.renderIndentGuides": true,
+
+  "editor.minimap.enabled": false,
+
+  "editor.tabSize": 2,
+
+  "editor.matchBrackets": "always",
+
+  "editor.cursorBlinking": "smooth",
+
+  "editor.selectionHighlight": true,
+
+  "editor.occurrencesHighlight": false,
+
+  "explorer.openEditors.visible": 0,
+
+  "scm.diffDecorationsGutterVisibility": "hover",
+
+  "scm.diffDecorations": "gutter",
+
+  "window.zoomLevel": 0,
+
+  "window.title": "${activeEditorMedium}",
+
+  "workbench.sideBar.location": "left",
+
+  "workbench.statusBar.visible": true,
+
+  "workbench.activityBar.visible": false,
+
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+
+  "workbench.startupEditor": "none",
+
+  "git.enableSmartCommit": true,
+
+  "editor.tabCompletion": "onlySnippets",
+
+  "search.exclude": {
+    "dist": true,
+
+    "static": true
+  },
+
+  "explorer.confirmDragAndDrop": false,
+
+  "git.confirmSync": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "html.format.enable": false,
+
+  "editor.formatOnSave": true,
+
+  "css.validate": false,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // emmet settings
+
+  "emmet.triggerExpansionOnTab": true,
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  "prettier.disableLanguages": [],
+
+  "tailwindCSS.emmetCompletions": true,
+
+  "markdown.preview.fontFamily": "\"Fira Code\"",
+
+  "editor.suggestSelection": "first",
+
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+  "gitlens.mode.active": "zen",
+
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+
+  "explorer.confirmDelete": false,
+
+  "diffEditor.maxComputationTime": 0,
+
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+
+  "workbench.colorTheme": "Panda Syntax",
+
+  "window.menuBarVisibility": "toggle",
+
+  "terminal.integrated.fontFamily": "monospace",
+
+  "editor.fontFamily": "'Operator Mono Lig Book','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+
+  "editor.fontSize": 15,
+
+  "editor.letterSpacing": 0.2,
+
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+
+  "workbench.iconTheme": "eq-material-theme-icons",
+
+  "workbench.editor.showTabs": false
+}
